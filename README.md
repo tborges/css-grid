@@ -10,8 +10,6 @@ CSS PROPERTIES USED FOR THIS EXAMPLE:
 <code>grid-template-rows: 50px 50px;</code><br>
 <code>grid-gap: 5px;</code><br>
 
-<code>
-<video width="400" controls>
-  <source src="css-grid1.webm" type="video/webm">
-</video>
-</code>
+
+<code><h2>Video sample</h2></code>
+https://youtu.be/e-_ZgkQso0c
