@@ -10,6 +10,7 @@ CSS PROPERTIES USED FOR THIS EXAMPLE:
 <code>grid-template-rows: 50px 50px;</code><br>
 <code>grid-gap: 5px;</code><br>
 
+
 <img src="sample.png">
 
 <code><h2>Video sample</h2></code>
