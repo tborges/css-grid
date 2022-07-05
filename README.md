@@ -14,4 +14,4 @@ CSS PROPERTIES USED FOR THIS EXAMPLE:
 <img src="sample.png">
 
 <code><h2>Video sample</h2></code>
-<a href="https://youtu.be/e-_ZgkQso0c" target="_blank">watch</a>
+<a href="https://www.youtube.com/watch?v=efrk2kYIJE4" target="_blank">---> Watch ♥</a>
